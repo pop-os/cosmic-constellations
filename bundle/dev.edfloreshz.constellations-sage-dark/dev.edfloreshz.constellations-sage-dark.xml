@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bundle id="dev.edfloreshz.constellations-sage-dark">
+  <source type="git"
+          url="https://github.com/edfloreshz/constellations"
+          commit="fb88603b8b8553157925fdb4e5bb433fd59c13e1"
+          path="sage-dark" />
+  <developer id="dev.edfloreshz">
+    <name>Eduardo Flores</name>
+  </developer>
+  <project_license>GPL-3.0-only</project_license>
+</bundle>
