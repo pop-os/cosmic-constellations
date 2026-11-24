@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bundle id="hu.usbee.constellations.alphablue-light">
+  <source type="git"
+          url="https://github.com/usbeehu/alphablue-constellations"
+          commit="d4f6ed93fd061189a6a3de9a2f41ddc53654addc"
+          path="alphablue-light" />
+  <developer id="hu.usbee">
+    <name>Balázs Szulovszky</name>
+  </developer>
+  <project_license>GPL-3.0-only</project_license>
+</bundle>
